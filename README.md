@@ -57,16 +57,9 @@ These features are not part of the first version but are possible upgrades as th
   Users can record voice reminders or write a short motivational letter when they create a schedule.  
   Example: Instead of “Drink water,” the reminder could say *“Hey Alex, stay hydrated—you got this!”*  
 
-- **Location-Based Triggers**  
-  Routines tied to places, not just time.  
-  Example: “When you get home, remind me to water the plants.”  
-
 - **Motivation & Accomplishment Features**  
   A **check board** or **progress board** where users see everything they’ve accomplished.  
   Could evolve into a points system or streak counter—encouraging users to complete more tasks.  
-
-- **Gamification**  
-  Rewards, badges, and challenges for completing routines consistently.  
 
 - **Multi-Language Support**  
   Keep the app simple at first, then expand with language options when the idea grows globally.  
