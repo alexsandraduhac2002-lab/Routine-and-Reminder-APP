@@ -2,7 +2,7 @@
 
 ## Description
 This repository is for documenting and prototyping an idea for a **Routine and Reminder App**.  
-The app is not yet in development. The goal is to take note of the concept, define objectives, and create a prototype before moving into coding.  
+The app is not yet in development. The goal is to note down the concept, define objectives, and create a prototype before moving into coding.  
 
 The app is designed to help people, especially those with ADHD or unorganized routines, build structure in their daily lives. It combines customizable schedules, automatic reminders, and progress tracking with motivational and social features such as shared routines and followers.
 
@@ -49,6 +49,33 @@ The app is designed to help people, especially those with ADHD or unorganized ro
 
 ---
 
+## Future Development
+
+These features are not part of the first version but are possible upgrades as the app grows:
+
+- **Voice & Personalized Notifications**  
+  Users can record voice reminders or write a short motivational letter when they create a schedule.  
+  Example: Instead of “Drink water,” the reminder could say *“Hey Alex, stay hydrated—you got this!”*  
+
+- **Location-Based Triggers**  
+  Routines tied to places, not just time.  
+  Example: “When you get home, remind me to water the plants.”  
+
+- **Motivation & Accomplishment Features**  
+  A **check board** or **progress board** where users see everything they’ve accomplished.  
+  Could evolve into a points system or streak counter—encouraging users to complete more tasks.  
+
+- **Gamification**  
+  Rewards, badges, and challenges for completing routines consistently.  
+
+- **Multi-Language Support**  
+  Keep the app simple at first, then expand with language options when the idea grows globally.  
+
+- **Wellness & Integration**  
+  Optional integration with fitness trackers, step counters, or mood logs to connect routines with personal health.  
+
+---
+
 ## Current Stage
 - Idea conceptualization  
 - Documentation of objectives and features  
@@ -63,5 +90,11 @@ The app is designed to help people, especially those with ADHD or unorganized ro
 3. Finalize design direction (UI/UX theme, colors, navigation).  
 4. Plan minimum viable product (MVP) for first version.  
 5. Move toward coding stage when ready.  
+
+---
+
+## Note
+This project is currently **not a working app**. It is only a **concept and prototype documentation** at this stage.  
+The purpose of this repository is to **store the idea, features, and objectives**, and to prepare for future development when resources and manpower are available.  
 
 ---
